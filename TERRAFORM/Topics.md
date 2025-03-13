@@ -1,4 +1,5 @@
 <h1>A. Terraform Basics</h1>
+
 ### **1. What is Terraform? Why use it?**  
 **Terraform** is an open-source Infrastructure as Code (IaC) tool developed by HashiCorp that allows users to **provision, manage, and automate** infrastructure using declarative configuration files.  
 
