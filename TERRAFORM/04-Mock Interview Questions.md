@@ -208,4 +208,4 @@ resource "aws_iam_policy" "deny_manual_changes" {
 
 ---
 
-These **scenario-based Terraform solutions** help handle real-world infrastructure challenges! 🚀 Let me know if you need more details!
+
