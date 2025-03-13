@@ -1,4 +1,4 @@
-<h1>5. Terraform Mock Interview Questions</h1>
+<h1> Terraform Mock Interview Questions</h1>
 
 ### **1. Your Terraform state is corrupted; how do you recover it?**  
 ✅ **Steps to recover:**  
