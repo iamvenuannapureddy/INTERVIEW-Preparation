@@ -87,7 +87,7 @@ Practical experience is key to cracking Docker interviews. Try implementing thes
 10.	Automate Docker image builds and push to a private registry
 ________________________________________
 ## 5. Docker Best Practices
-•	**Use lightweight base images** → Alpine Linux, Minimal Ubuntu
+•	**Use lightweight base images** → Alpine Linux, Minimal Ubuntu 
 •	**Keep images small** → Use multi-stage builds
 •	**Use .dockerignore** → Exclude unnecessary files
 •	**Minimize layers in Dockerfile** → Reduce build complexity
