@@ -91,16 +91,16 @@ Practical experience is key to cracking Docker interviews. Try implementing thes
 10.	Automate Docker image builds and push to a private registry
 ________________________________________
 ## 5. Docker Best Practices
-•	**Use lightweight base images** → Alpine Linux, Minimal Ubuntu 
-•	**Keep images small** → Use multi-stage builds
-•	**Use .dockerignore** → Exclude unnecessary files
-•	**Minimize layers in Dockerfile** → Reduce build complexity
-•	**Follow least privilege principle** → Run containers as non-root users
-•	**Limit container resource usage** → Use --memory and --cpu flags
-•	**Enable Docker Content Trust (DCT)** → Ensure image integrity
-•	**Scan images for vulnerabilities** → Use docker scan
-•	**Manage secrets securely** → Use environment variables or Docker secrets
-•	**Automate builds and deployments** → Use CI/CD pipelines
+-	**Use lightweight base images** → Alpine Linux, Minimal Ubuntu 
+-	**Keep images small** → Use multi-stage builds
+-	**Use .dockerignore** → Exclude unnecessary files
+-	**Minimize layers in Dockerfile** → Reduce build complexity
+-	**Follow least privilege principle** → Run containers as non-root users
+-	**Limit container resource usage** → Use --memory and --cpu flags
+-	**Enable Docker Content Trust (DCT)** → Ensure image integrity
+-	**Scan images for vulnerabilities** → Use docker scan
+-	**Manage secrets securely** → Use environment variables or Docker secrets
+-	**Automate builds and deployments** → Use CI/CD pipelines
 ________________________________________
 ## 6. Docker Mock Interview Questions
 ### Scenario-Based Questions
