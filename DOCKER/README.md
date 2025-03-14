@@ -116,14 +116,14 @@ ________________________________________
 10.	How do you configure and deploy Docker containers in a Kubernetes cluster?
 ________________________________________
 ## 7. Docker Interview Preparation Tips
-•	Master Docker CLI commands – Memorize frequently used commands.
-•	Understand Docker architecture deeply – Containers, images, networking, volumes.
-•	Practice hands-on projects – Don’t just read, build real applications.
-•	Learn about Docker security best practices – Container isolation, scanning, DCT.
-•	Study Docker’s role in CI/CD pipelines – Integrate Docker with Jenkins, GitLab CI/CD.
-•	Join Docker communities and forums – Stay updated on best practices.
-•	Practice debugging Docker issues – Real-world troubleshooting scenarios.
-•	Use Kubernetes with Docker – Know how to deploy Docker containers on Kubernetes.
+-	Master Docker CLI commands – Memorize frequently used commands.
+-	Understand Docker architecture deeply – Containers, images, networking, volumes.
+-	Practice hands-on projects – Don’t just read, build real applications.
+-	Learn about Docker security best practices – Container isolation, scanning, DCT.
+-	Study Docker’s role in CI/CD pipelines – Integrate Docker with Jenkins, GitLab CI/CD.
+-	Join Docker communities and forums – Stay updated on best practices.
+-	Practice debugging Docker issues – Real-world troubleshooting scenarios.
+-	Use Kubernetes with Docker – Know how to deploy Docker containers on Kubernetes.
 ________________________________________
 
 
