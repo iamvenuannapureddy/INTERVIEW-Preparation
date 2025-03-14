@@ -104,16 +104,16 @@ ________________________________________
 ________________________________________
 ## 6. Docker Mock Interview Questions
 ### Scenario-Based Questions
-1.	A Docker container is failing to start. How do you debug it?
-2.	How do you reduce the size of a Docker image?
-3.	You need to deploy a database container and ensure persistent storage. How do you do it?
-4.	Your application inside a Docker container is crashing after deployment. How do you investigate?
-5.	How would you optimize Docker container networking for performance?
-6.	How do you secure sensitive environment variables inside a Docker container?
-7.	How do you handle rolling updates for Docker containers?
-8.	A containerized application needs to communicate with external services. How do you configure it?
-9.	How do you handle logs for running containers in production?
-10.	How do you configure and deploy Docker containers in a Kubernetes cluster?
+1.	*A Docker container is failing to start. How do you debug it?*
+2.	*How do you reduce the size of a Docker image?*
+3.	*You need to deploy a database container and ensure persistent storage. How do you do it?*
+4.	*Your application inside a Docker container is crashing after deployment. How do you investigate?*
+5.	*How would you optimize Docker container networking for performance?*
+6.	*How do you secure sensitive environment variables inside a Docker container?*
+7.	*How do you handle rolling updates for Docker containers?*
+8.	*A containerized application needs to communicate with external services. How do you configure it?*
+9.	*How do you handle logs for running containers in production?*
+10.	*How do you configure and deploy Docker containers in a Kubernetes cluster?*
 ________________________________________
 ## 7. Docker Interview Preparation Tips
 -	Master Docker CLI commands – Memorize frequently used commands.
