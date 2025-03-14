@@ -77,18 +77,18 @@ ________________________________________
 ## 4. Hands-on Docker Projects for Interviews
 Practical experience is key to cracking Docker interviews. Try implementing these projects:
 ### Basic Projects
-1.	Build and run a simple Nginx container
-2.	Create a custom Docker image using a Dockerfile
-3.	Use Docker Compose to deploy a multi-container application
+1.	**Build and run a simple Nginx container**
+2.	**Create a custom Docker image using a Dockerfile**
+3.	**Use Docker Compose to deploy a multi-container application**
 ### Intermediate Projects
-4.	Deploy a database and application container using Docker Compose
-5.	Secure Docker images using best practices (multi-stage builds, scanning)
-6.	Use Docker networking to connect multiple containers
+4.	**Deploy a database and application container using Docker Compose**
+5.	**Secure Docker images using best practices (multi-stage builds, scanning)**
+6.	**Use Docker networking to connect multiple containers**
 ### Advanced Projects
-7.	CI/CD Pipeline with Jenkins and Docker
-8.	Deploy a containerized application to Kubernetes using Helm
-9.	Implement a high-availability Docker Swarm cluster
-10.	Automate Docker image builds and push to a private registry
+7.	**CI/CD Pipeline with Jenkins and Docker**
+8.	**Deploy a containerized application to Kubernetes using Helm**
+9.	**Implement a high-availability Docker Swarm cluster**
+10.	**Automate Docker image builds and push to a private registry**
 ________________________________________
 ## 5. Docker Best Practices
 -	**Use lightweight base images** → Alpine Linux, Minimal Ubuntu 
