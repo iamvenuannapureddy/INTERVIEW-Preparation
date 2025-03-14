@@ -14,24 +14,27 @@ ________________________________________
   -	Docker Commands (docker build, docker pull, docker push, docker ps, docker stop, docker rm)
   
 ### B. Docker Networking and Storage
-•	Docker Networking (Bridge, Host, Overlay, Macvlan)
-•	Docker Volumes vs Bind Mounts
-•	How to persist data in Docker containers
-•	Running multiple containers with Docker Compose
-•	Exposing and accessing container ports
+  -	Docker Networking (Bridge, Host, Overlay, Macvlan)
+  -	Docker Volumes vs Bind Mounts
+  -	How to persist data in Docker containers
+  -	Running multiple containers with Docker Compose
+  -	Exposing and accessing container ports
+    
 ### C. Docker Image Management and Security
-•	How to optimize Docker images
-•	Difference between public and private registries
-•	How to scan and secure Docker images
-•	Using Docker Content Trust (DCT) for image signing
-•	Managing multi-stage builds for smaller images
+  -	How to optimize Docker images
+  -	Difference between public and private registries
+  -	How to scan and secure Docker images
+  -	Using Docker Content Trust (DCT) for image signing
+  -	Managing multi-stage builds for smaller images
+    
 ### D. Docker Orchestration (Docker Swarm & Kubernetes)
-•	What is Docker Swarm? How does it compare to Kubernetes?
-•	Running a Docker Swarm cluster
-•	Understanding Kubernetes vs Docker
-•	Deploying containers to Kubernetes using kubectl
-•	Working with Kubernetes manifests (Pods, Deployments, Services)
-•	Docker in CI/CD (Jenkins, GitHub Actions, GitLab CI/CD)
+  -	What is Docker Swarm? How does it compare to Kubernetes?
+  -	Running a Docker Swarm cluster
+  -	Understanding Kubernetes vs Docker
+  -	Deploying containers to Kubernetes using kubectl
+  -	Working with Kubernetes manifests (Pods, Deployments, Services)
+  -	Docker in CI/CD (Jenkins, GitHub Actions, GitLab CI/CD)
+    
 ________________________________________
 ## 3. Docker Interview Questions
 Here are categorized interview questions ranging from beginner to advanced levels.
