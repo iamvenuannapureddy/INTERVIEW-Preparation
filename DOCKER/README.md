@@ -5,13 +5,14 @@ To prepare for Docker interviews, you must understand its **architecture, comman
 ________________________________________
 ## 2. Core Topics to Cover
 ### A. Docker Basics
-  •	What is Docker? Why use it?
-  •	Difference between Docker and Virtual Machines (VMs)
-  •	What is a Docker Image and a Docker Container?
-  •	Difference between docker run, docker start, and docker exec
-  •	Docker installation & setup (Linux, Windows, Mac)
-  •	Dockerfile basics (Writing and optimizing a Dockerfile)
-  •	Docker Commands (docker build, docker pull, docker push, docker ps, docker stop, docker rm)
+  -	What is Docker? Why use it?
+  -	Difference between Docker and Virtual Machines (VMs)
+  -	What is a Docker Image and a Docker Container?
+  -	Difference between docker run, docker start, and docker exec
+  -	Docker installation & setup (Linux, Windows, Mac)
+  -	Dockerfile basics (Writing and optimizing a Dockerfile)
+  -	Docker Commands (docker build, docker pull, docker push, docker ps, docker stop, docker rm)
+  
 ### B. Docker Networking and Storage
 •	Docker Networking (Bridge, Host, Overlay, Macvlan)
 •	Docker Volumes vs Bind Mounts
